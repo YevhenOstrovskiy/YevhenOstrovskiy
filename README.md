@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 My name is Yevhen. I am a software developer. 
-I am interested in different technologies and am always looking for opportunities to improve my skills and learn new things.
-In my free time I study hardware such as esp32, raspberry pi because I like the concept of IoT and smart thing
+I am interested in different technologies and always looking for opportunities to improve my skills and learn new things.
+In my free time I study hardware such as ATMEGA, esp32 and raspberry pi because I like the concept of IoT and smart thing.
 
 ## Projects:
 1. [Gadgets store](https://underheel.github.io/product_catalog/#/)
