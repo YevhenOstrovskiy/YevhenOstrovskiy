@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Eevhen. I am a software developer. 
+My name is Yevhen. I am a software developer. 
 I am interested in different technologies and am always looking for opportunities to improve my skills and learn new things.
 In my free time I study hardware such as esp32, raspberry pi because I like the concept of IoT and smart thing
 
