@@ -7,7 +7,7 @@ In my free time I study hardware such as ATMEGA, esp32 and raspberry pi because 
 ## Projects:
 1. [Gadgets store](https://underheel.github.io/product_catalog/#/)
 2. [Todo App](https://mate-academy.github.io/react_todo-app-with-api/)
-3. [Museum site(HTML, CSS only)](https://yevhenostrovskiy.github.io/layout_landing-page/)
+3. [Museum site(HTML, SCSS only)](https://yevhenostrovskiy.github.io/layout_landing-page/)
 
 ## Technology stack:
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
