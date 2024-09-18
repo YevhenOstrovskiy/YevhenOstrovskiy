@@ -6,8 +6,8 @@ In my free time I study hardware such as ATMEGA, esp32 and raspberry pi because 
 
 ## Projects:
 1. [Currency converter(Angular)](https://currency-converter-1-ivory.vercel.app/)
-2. [Gadgets store](https://underheel.github.io/product_catalog/#/)
-3. [Todo App](https://mate-academy.github.io/react_todo-app-with-api/)
+2. [Pet Breeds](https://pet-explorer.vercel.app/)
+3. [Gadgets store](https://underheel.github.io/product_catalog/#/)
 4. [Museum site(HTML, SCSS only)](https://yevhenostrovskiy.github.io/layout_landing-page/)
 
 ## Technology stack:
