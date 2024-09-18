@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-My name is Yevhen. I am a software developer. 
+My name is Yevhen.
 I am a software developer interested in various technologies and always looking for opportunities to improve my skills and learn new things.
 In my free time, I model in Autodesk Fusion 360 and study hardware such as ATMEGA, ESP32, and Raspberry Pi because I enjoy the concept of IoT and smart devices.
 
