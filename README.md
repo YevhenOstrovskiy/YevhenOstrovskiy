@@ -1,11 +1,13 @@
 ## Welcome 👋
 
-I do what I like to do, and I like programming, 3d modeling and IoT. I also have a few pets: Flying Bear Ghost 4S and Anycubic Kobra)))
+I do what I like to do, and I like programming, 3d modeling and IoT.
 
 ## Projects:
-1. [Currency converter (Angular)](https://currency-converter-1-ivory.vercel.app/)
-2. [Pet Breeds (Next.js)](https://pet-explorer.vercel.app/)
-3. [Gadgets store (React, Redux)](https://underheel.github.io/product_catalog/#/)
+
+1. [Rick and Morty handbook (Svelte, GraphQl, cloudflare)](https://rick-and-morty-handbook.pages.dev/)
+2. [Currency converter (Angular, rxjs, vercel)](https://currency-converter-1-ivory.vercel.app/)
+3. [Pet Breeds (Next.js)](https://pet-explorer.vercel.app/)
+4. [Gadgets store (React, Redux)](https://underheel.github.io/product_catalog/#/)
 
 ## Technology stack:
 
@@ -23,6 +25,6 @@ I do what I like to do, and I like programming, 3d modeling and IoT. I also have
 
 
 ## Contacts:
-  I'm always happy to talk to new people when it comes to development or technology. If you have any questions or suggestions, don't hesitate to contact me.
+  I'm always happy to talk to new people when it comes to development or technologies. If you have any questions or suggestions, don't hesitate to contact me.
 - [My Gmail](yevhenostrovskyi9@gmail.com)
 - [Telegram](https://t.me/ostriyjeka)
